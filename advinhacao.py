@@ -13,6 +13,7 @@ def jogar():
     pontos = 1000
 
 
+
     print("Qual o nivel de dificuldade?")
     print("(1) Fácil (2) Média (3) dificil")
     nivel = int (input("defina um nivel:"))
