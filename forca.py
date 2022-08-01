@@ -4,6 +4,7 @@ def jogar():
     print("***Bem vindo ao jogo de forca***")
     print("################################")
 
+    #teste do github
 
     #arquivo = open ("palavrasecreta", "r")
     #palavras = []
@@ -13,7 +14,7 @@ def jogar():
         #palavras.append(linha)
 
     #arquivo.close()
-  
+    #teste no github
     with open("palavrasecreta", "r") as arquivo:
         palavras = []
         for linha in arquivo:
