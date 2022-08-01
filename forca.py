@@ -13,7 +13,7 @@ def jogar():
         #palavras.append(linha)
 
     #arquivo.close()
-    #teste no github
+  
     with open("palavrasecreta", "r") as arquivo:
         palavras = []
         for linha in arquivo:
