@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="funçoes finalizadas">
+      <change beforePath="$PROJECT_DIR$/.idea/Jogo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jogo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2022_22_36__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2022_22_36__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Niceias/PycharmProjects/Jogo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/niceias.filho/PycharmProjects/Jogo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -46,7 +49,7 @@
       <recent name="C:\Users\Niceias\PycharmProjects\Jogo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.forca">
+  <component name="RunManager" selected="Python.teste">
     <configuration name="advinhacao" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Jogo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,8 +199,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.forca" />
         <item itemvalue="Python.teste" />
+        <item itemvalue="Python.forca" />
         <item itemvalue="Python.jogos" />
       </list>
     </recent_temporary>
