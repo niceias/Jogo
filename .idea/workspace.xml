@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="adicionando fruta" />
+    <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="funçoes finalizadas">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2022_22_36__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_2022_22_36__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -285,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659404590257</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adicionando fruta">
+      <created>1659405446463</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659405446463</updated>
+    </task>
+    <task id="LOCAL-00013" summary="funçoes finalizadas">
+      <created>1659405570026</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659405570026</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +325,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testando o git" />
     <MESSAGE value="criação das funções" />
-    <option name="LAST_COMMIT_MESSAGE" value="criação das funções" />
+    <MESSAGE value="adicionando fruta" />
+    <MESSAGE value="funçoes finalizadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="funçoes finalizadas" />
   </component>
 </project>
