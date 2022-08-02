@@ -1,17 +1,50 @@
 
+def soma( a, b):
+    num1 =  a
+    num2 =  b
+    res = a + b
+    print("soma de {} + {} é igua a {}".format(a,b, res))
 
-conjunto = [10,52,33,40,55]
 
-for i in conjunto:
-    print(i)
+def subtracao():
+    a = int(input("Digite o numerador: "))
+    b = int(input("Digite o numerador: "))
+    return  a - b
 
-print("######################################33")
 
-for i in range(1, 5):
-    print(conjunto[i])
+####PROGRAMA PRINCIPAL
+print("################################################")
+print("BEM VINDO AO TABUADA")
+print("################################################")
 
-print("######################################33")
+a = int(input("Digite o numerador: "))
+b = int(input("Digite o numerador: "))
 
-lista = [i for i in conjunto]
-print(lista)
+soma(a, b)
+
+print("#########################################################")
+
+sub = subtracao()
+print("o resultado da subtração é: {} ".format(sub))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
