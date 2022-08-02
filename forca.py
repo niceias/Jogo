@@ -60,6 +60,8 @@ def jogar():
 
     print('fim do Jogo!')
 
+    ##finalizado
+
 
 if(__name__ == "__main__"):
     jogar()
