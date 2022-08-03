@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="Testando o For">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palavrasecreta" beforeDir="false" afterPath="$PROJECT_DIR$/palavrasecreta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
