@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="Testando o For">
+    <list default="true" id="5f8c5bac-74a3-46c1-bd68-e0e21f2a9c3e" name="Changes" comment="estudando sobre arquivo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/palavrasecreta" beforeDir="false" afterPath="$PROJECT_DIR$/palavrasecreta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659466303359</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="estudando sobre arquivo">
+      <created>1659559783347</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659559783347</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +343,7 @@
     <MESSAGE value="adicionando fruta" />
     <MESSAGE value="funçoes finalizadas" />
     <MESSAGE value="Testando o For" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testando o For" />
+    <MESSAGE value="estudando sobre arquivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudando sobre arquivo" />
   </component>
 </project>

@@ -1,40 +1,25 @@
+from shlex import join
 
-def ler_arquivo():
-    with open("palavrasecreta", "r") as arquivo:
-        linha = arquivo.read()
-        print(linha)
+num = 0
+clientes = []
+while(num <= 1):
+    with open('palavrasecreta', 'a', newline="") as arquivo:
+        nome = input("digite o seu nome: ")
+        cpf = input("digite o cpf: ")
+        idade = input("Digite a idade: ")
+        num += 1
+        cliente = (nome, cpf, idade)
+        arquivo.write(join(cliente))
+        arquivo.write('\n')
 
+    clientes.append(cliente)
 
-
-def escreve_arquivo():
-   pedido = "s"
-   while(pedido == "s"):
-        with open("palavrasecreta", "a", newline="") as arquivo:
-
-            arquivo.write(input("Digite aqui: "))
-            arquivo.write('\n')
-
-        pedido = input("deseja continuar pedindo: ")
-
-
-
-def captura_arquivo():
-    with open("palavrasecreta", "r") as arquivo:
-        lista = []
-        for linha in arquivo:
-            linha =  linha.strip()
-            lista.append(linha)
-        print(lista)
+for i in clientes:
+    print(i)
 
 
-leitura = int(input("Digite uma opção: "))
 
-if(leitura == 1):
-    ler_arquivo()
-elif(leitura == 2):
-    escreve_arquivo()
-else:
-    captura_arquivo()
+
 
 
 
